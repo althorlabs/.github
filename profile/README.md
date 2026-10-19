@@ -6,8 +6,8 @@ Althor Labs is the public work of Althor Consulting LLC. We research decisions, 
 
 ## Public software
 
-- [a11yscan](https://github.com/st0rm-bless3d/a11yscan) is an open-source command-line accessibility scanner and GitHub Action. It uses Chromium and axe-core to report detected findings by impact, selector, and WCAG tag. Results support investigation and triage; they do not establish conformance.
-- [npm package](https://www.npmjs.com/package/@althorlabs/a11yscan)
+- [a11yscan on npm](https://www.npmjs.com/package/@althorlabs/a11yscan) is an MIT-licensed command-line accessibility scanner. It uses Chromium and axe-core to report detected findings by impact, selector, and WCAG tag. Results support investigation and triage; they do not establish conformance.
+- [Scanner documentation](https://a11yscan.althor.dev/)
 
 ## Work and writing
 
