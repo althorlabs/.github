@@ -2,7 +2,7 @@
 
 Agent-assisted digital work, scoped in writing and checked before handoff.
 
-Althor Labs is the public work of Althor Consulting LLC. We research decisions, organize records, connect workflows, and build focused web tools from agreed inputs and acceptance checks.
+Althor Labs is the public work of Althor Consulting LLC. We use agents for source checks and spreadsheet reviews. Each pilot is scoped in writing. The handoff includes reviewed files and flags unresolved findings or record mismatches.
 
 ## Public software
 
