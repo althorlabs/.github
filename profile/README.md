@@ -1,22 +1,16 @@
 # Althor Labs
 
-Agent-assisted digital work, scoped in writing and checked before handoff.
+Althor Labs builds data tools and workflow automations. For project work, we agree on the files, rules and expected output in writing.
 
-Althor Labs is the public work of Althor Consulting LLC. We use agents for source checks and spreadsheet reviews. Each pilot is scoped in writing. The handoff includes reviewed files and flags unresolved findings or record mismatches.
+## Data reconciliation
 
-## Worked examples
+- [Property export reconciliation](https://althorlabs.com/work/#property-reconciliation): compare an export with ledger totals and get a CSV that separates duplicates, amount mismatches and unmatched records. The example uses fictional data.
+- [Invoice revision example](https://althorlabs.com/samples/invoice-revisions/): see how a revised invoice is counted once and how the final total is checked.
 
-- [Invoice revision reconciliation](https://althorlabs.com/samples/invoice-revisions/) uses five fictional source rows to show revision handling and a checked CSV total.
-- [Second Beach practice edit](https://althorlabs.com/samples/second-beach-edit/) is a 15-second editing exercise using licensed public footage. The page includes source credits and a video-plus-credits download.
+## Tools you can use
 
-## Public software
+- [Catalog Feed Diff](https://apify.com/althorlabs/catalog-feed-diff): compare supplier exports for price, stock and assortment changes.
+- [NYC DOB NOW Permit Watch](https://apify.com/althorlabs/nyc-dob-now-permit-watch/examples/find-issued-building-permits-in-manhattan-zip-10001): open an example for issued permits in Manhattan ZIP 10001.
+- [a11yscan](https://www.npmjs.com/package/@althorlabs/a11yscan): an MIT-licensed command-line scanner that reports detected accessibility issues. It does not establish conformance.
 
-- [a11yscan on npm](https://www.npmjs.com/package/@althorlabs/a11yscan) is an MIT-licensed command-line accessibility scanner. It uses Chromium and axe-core to report detected findings by impact, selector, and WCAG tag. Results support investigation and triage; they do not establish conformance.
-- [Scanner documentation](https://a11yscan.althor.dev/)
-
-## Work and writing
-
-- [Work](https://althorlabs.com/work/)
-- [Technical writing](https://althorlabs.com/writing/)
-- [Prepare a project brief](https://althorlabs.com/intake/)
-- [Website](https://althorlabs.com/)
+[All tools and projects](https://althorlabs.com/work/) · [Technical writing](https://althorlabs.com/writing/) · [Website](https://althorlabs.com/)
